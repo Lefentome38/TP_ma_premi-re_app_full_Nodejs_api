@@ -1,0 +1,7 @@
+GET http://localhost:3030/start
+
+###
+GET http://localhost:3030/hello/Aymeric
+
+###
+GET http://localhost:3030/files
