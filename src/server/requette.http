@@ -5,3 +5,9 @@ GET http://localhost:3030/hello/Aymeric
 
 ###
 GET http://localhost:3030/files
+
+###
+GET http://localhost:3030/files/toto
+
+###
+GET http://localhost:3030/toto/lalllllll
